@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Hi, I'm Valerii Samoilov 
+
+**Lead / Principal C++ Software Engineer** specializing in **CAD/CAM/BIM systems**. 
+I turn complex engineering challenges into efficient code.
 
 <!--
 **SamoilovVV/SamoilovVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
