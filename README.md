@@ -3,10 +3,7 @@
 **Lead / Principal C++ Software Engineer** specializing in **CAD/CAM/BIM systems**. 
 I turn complex engineering challenges into efficient code.
 
-<img src="certificate_MCSD.png" width="300" alt="Microsoft Certified Solutions Developer">
-<img src="certificate_Qt.png" width="300" alt="Qt C++ Specialist">
-<img src="certificate_AutoCAD.png" width="300" alt="Autodesk Certified Professional: AutoCAD">
-<img src="certificate_Architecture.png" width="300" alt="Yandex Practicum: Software Architecture">
+<img src="certificate_Architecture.png" height="160" alt="Yandex Practicum: Software Architecture"> <img src="certificate_Qt.png" height="160" alt="Qt C++ Specialist"> <img src="certificate_MCSD.png" height="160" alt="Microsoft Certified Solutions Developer"> <img src="certificate_AutoCAD.png" height="160" alt="Autodesk Certified Professional: AutoCAD">  
 
 <!--
 **SamoilovVV/SamoilovVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
