@@ -32,5 +32,5 @@ C++17/20 · Qt · CMake · Boost · C# / .NET · COM · OpenCascade · C3D · OD
 - [Разработка проектов производства работ кранами с помощью программного комплекса «Гектор: Проектировщик-строитель». Версия ЭКСПЕРТ](https://sapr.ru/article/24776), «САПР и графика», февраль 2015
 
 ## Сертификаты
-Qt C++ Specialist · Autodesk Certified Professional: AutoCAD · Яндекс Практикум: «Архитектура ПО» · MCSD (2018)
+Qt C++ Specialist · Autodesk Certified Professional: AutoCAD · Яндекс Практикум: «Архитектура ПО» · MCSD: App Builder (2018)
 ([сканы](certificates/))
