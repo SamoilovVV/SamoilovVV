@@ -1,6 +1,36 @@
-## 👋 Hi, I'm Valerii Samoilov 
+# Валерий Самойлов · Valerii Samoilov
 
-**Lead / Principal C++ Software Engineer** specializing in **CAD/CAM/BIM systems**. 
-I turn complex engineering challenges into efficient code.
+**Архитектор ПО · CAD/CAM/BIM · C++ / C#**
+*Software Architect for engineering software: CAD systems, geometry, integrations, AI × CAD.*
 
-<img src="certificate_Architecture.png" height="140" alt="Yandex Practicum: Software Architecture"> <img src="certificate_Qt.png" height="140" alt="Qt C++ Specialist"> <img src="certificate_MCSD.png" height="140" alt="Microsoft Certified Solutions Developer"> <img src="certificate_AutoCAD.png" height="140" alt="Autodesk Certified Professional: AutoCAD"> 
+Почти 14 лет делаю инженерное ПО: от плагинов для AutoCAD, Revit, Inventor, SolidWorks, Creo и NX до CAD-систем с нуля на ядрах C3D и OpenCascade и на ODA Platform. Последние годы отвечаю за архитектуру крупной отечественной САПР: несколько команд, соисполнители, согласование решений с заказчиком. Кандидат технических наук.
+
+## Чем занимаюсь
+- **Архитектура CAD/CAM-систем:** C4, ADR, диаграммы последовательности, дорожные карты, документация для разных аудиторий
+- **Геометрические ядра и модельные данные:** C3D, OpenCascade, сменные ядра
+- **AI × CAD:** MCP-серверы, через которые агенты получают доступ к функциям САПР; LLM в подготовке архитектурной документации
+- **Интеграции с CAD/BIM-платформами:** AutoCAD, Revit, Inventor, SolidWorks, NX, Creo; форматы IFC и STEP
+- **Техническое лидерство:** развитие направления из ~10 инженеров, найм, стандарты, менторство
+
+## Проекты
+| Проект | О чём |
+|---|---|
+| [FigureSampleQt](https://github.com/SamoilovVV/FigureSampleQt) | Фабрика объектов и плагины Qt на минимальном примере |
+
+<!--
+Добавить, когда будут готовы:
+| [mini-mcad](ссылка) | Прототип MCAD: дерево построения, сменное геометрическое ядро (OpenCascade и заглушка), плагины, MCP-адаптер. Главное здесь архитектура: C4 и ADR в docs/ |
+| [architecture-warmhouse](https://github.com/SamoilovVV/architecture-warmhouse) | Учебный проект «Архитектура ПО» (Яндекс Практикум): декомпозиция монолита, API, Kubernetes |
+-->
+
+## Стек
+C++17/20 · Qt · CMake · Boost · C# / .NET · COM · OpenCascade · C3D · ODA Platform · PlantUML · MCP
+
+## Наука и публикации
+- Кандидат технических наук, 2011. Диссертация: «Защитно-упрочняющие электрофизические покрытия машиностроительных материалов с комбинированной обработкой для повышения их долговечности и качества»
+- [Комплексный подход к автоматизации разработки организационно-технологической документации в строительстве. Программный комплекс «Гектор: Проектировщик-строитель» Версия ЭКСПЕРТ](https://sapr.ru/article/24207), «САПР и графика», август 2013
+- [Разработка проектов производства работ кранами с помощью программного комплекса «Гектор: Проектировщик-строитель». Версия ЭКСПЕРТ](https://sapr.ru/article/24776), «САПР и графика», февраль 2015
+
+## Сертификаты
+Qt C++ Specialist · Autodesk Certified Professional: AutoCAD · Яндекс Практикум: «Архитектура ПО» · MCSD (2018)
+([сканы](certificates/))
